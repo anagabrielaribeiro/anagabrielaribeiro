@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Ana Gabriela</h1>
-<h3 align="center">Um dev apaixonado por tecnologia, estudando e buscando novos conhecimentos para me aperfeiçoar cada vez mais!</h3>
+<h3 align="center">Uma dev apaixonado por tecnologia, estudando e buscando novos conhecimentos para me aperfeiçoar cada vez mais!</h3>
 
 <h3 align="left">Contate-me:</h3>
 <p align="left" >
